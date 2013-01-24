@@ -1,0 +1,7 @@
+syntax: glob
+
+[Dd]ebug/
+[Re]lease/
+*.sdf
+*.opensdf
+*.suo
